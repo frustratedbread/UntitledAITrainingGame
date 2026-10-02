@@ -1,3 +1,5 @@
+懒得翻译了，国内的好兄弟们请移步：https://www.bilibili.com/video/BV1gWaD6rEpN/
+
 # UntitledAITrainingGame
 
 I’m making a game where you can train your own neural network-based AI and let it fight in an arena. The core gameplay is similar to that of auto-battler games like Totally Accurate Battle Simulator, but with battlers controlled by code-based AI, human players, or neural network-based AI.
